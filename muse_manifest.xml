@@ -1,0 +1,126 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nokdef.com" resolutions="1x" timestamp="1512122781654">
+  <folder name="assets">
+    <file name="vid.mp4" crc="90141969" seo="true" mt="1502313871000"/>
+    <file name="thumb_vid.png" crc="4102535911" seo="true" mt="1502315686000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="4122637121"/>
+    <file name="index.css" crc="482283112" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3849126041" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="header_exercising_loop.gif" crc="4068355988" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="school_logo-u1247.png" crc="392343507" ref="index"/>
+    <file name="u1274-4.png" crc="4237183998" ref="index"/>
+    <file name="u1278-4.png" crc="54747634" ref="index"/>
+    <file name="u1276-4.png" crc="4080941972" ref="index"/>
+    <file name="u1275-4.png" crc="3853969516" ref="index"/>
+    <file name="u1279-4.png" crc="1225971" ref="index"/>
+    <file name="u1277-4.png" crc="3971214877" ref="index"/>
+    <file name="spreadsheet_brain_enfeeble.jpg" crc="136223973" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cabbage_running_loop.gif" crc="4054519625" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2317-4.png" crc="303506401" ref="index"/>
+    <file name="sora_lise_easter_egg.jpg" crc="3986957345" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1497-4.png" crc="114752775" ref="index"/>
+    <file name="u1507-4.png" crc="3952908247" ref="index"/>
+    <file name="u2343-4.png" crc="14112337" ref="index"/>
+    <file name="u2345-4.png" crc="4206059151" ref="index"/>
+    <file name="u2361-4.png" crc="521218548" ref="index"/>
+    <file name="u2363-4.png" crc="16767288" ref="index"/>
+    <file name="u2352-4.png" crc="412910878" ref="index"/>
+    <file name="u2354-4.png" crc="450587332" ref="index"/>
+    <file name="elder_physical_activity_duration.jpg" crc="439938877" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="elder_physical_activity_frequency.jpg" crc="77402595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2398-4.png" crc="214531563" ref="index"/>
+    <file name="u2401-4.png" crc="4074491914" ref="index"/>
+    <file name="bio_chemistry_reaction.gif" crc="3774767399" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="correct_exercises_header.png" crc="189367662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1525-4.png" crc="355478780" ref="index"/>
+    <file name="graphs_sedentarysm.jpg" crc="3978498774" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2556-4.png" crc="4251372880" ref="index"/>
+    <file name="manobra_valsalva_def_pop_up.jpg" crc="379431177" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2640-11.png" crc="428187576" ref="index"/>
+    <file name="u2769-4.png" crc="104522216" ref="index"/>
+    <file name="quote.png" crc="4084341380" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="conclusion_activity.jpg" crc="508440638" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2704-4.png" crc="3868553707" ref="index"/>
+    <file name="u2707-6.png" crc="3977226766" ref="index"/>
+    <file name="u2710-6.png" crc="167685681" ref="index"/>
+    <file name="u2713-6.png" crc="340045901" ref="index"/>
+    <file name="u2716-6.png" crc="248909743" ref="index"/>
+    <file name="u2719-4.png" crc="129770360" ref="index"/>
+    <file name="u2775-4.png" crc="3907052290" ref="index"/>
+    <file name="chemical_impact_black.jpg" crc="3890362557" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2893-6.png" crc="167448160" ref="index"/>
+    <file name="flavio_white.png" crc="502312588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3093-6.png" crc="4100974227" ref="index"/>
+    <file name="u3133-4.png" crc="4230905604" ref="index"/>
+    <file name="chemist_breaking_bad_loop.gif" crc="314831247" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bubble1.png" crc="92803086" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2974-6.png" crc="272948788" ref="index"/>
+    <file name="impacto_hormonal.png" crc="145425964" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="running.gif" crc="4082039213" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3130-4.png" crc="3892524950" ref="index"/>
+    <file name="leo_vector.jpg" crc="3921421741" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="school_logo-u3248.png" crc="392343507" ref="index"/>
+    <file name="header_illness_list_fixed.png" crc="3984207167" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="black down.jpg" crc="267343058" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3809663134" seo="true" mt="1512122703188" redirect="true"/>
+</manifest>
